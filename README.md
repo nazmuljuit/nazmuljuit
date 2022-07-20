@@ -4,7 +4,7 @@
 **nazmuljuit/nazmuljuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [BiGM RESOURCES LTD](http://www.bigm-bd.com/).
+- 🔭 I’m currently working on [allexamschool](http://www.allexamschool.com/).
 - 🌱 I’m currently learning Python,Rust and GO lang.
 - 👯 I’m looking to collaborate on open sources
 - 🤔 I’m looking for help with other developer
