@@ -10,12 +10,6 @@
 - 🤔 I’m looking for help with other developer
 - ⚡ Fun fact: I like to learn new things 
 
-### Connect with me:
-
-
-[<img align="left" alt="Nazmul Hossain | Stackoverflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
-[<img align="left" alt="Nazmul Hossain | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
