@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on .....
-- 🌱 I’m currently learning Python,Rust and GO lang.
+- 🌱 I’m currently learning Python,React.
 - 👯 I’m looking to collaborate on open sources
 - 🤔 I’m looking for help with other developer
 - ⚡ Fun fact: I like to learn new things 
